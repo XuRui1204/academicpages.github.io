@@ -1,6 +1,6 @@
 ---
-permalink: /
-title: "About Me"
+permalink: /about/
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,8 @@ redirect_from:
 
 About Me
 ----
-I am a PhD student in the Department of Atmospheric and Oceanic Sciences, School of Physics, Peking University.
+I am a PhD student in the Department of Atmospheric and Oceanic Sciences, School of Physics, Peking University, supervised by Prof. Yan Yu.
+
 
 Research Interests
 ----
@@ -17,8 +18,7 @@ Atmospheric aerosols, with a specific focus on the emission, transport, and atmo
 
 Education
 ----
-- PhD student | Peking University | 2024 - Now
-- B.S. | Peking University | 2020-2024
-
-News
-----
+| Degree | Institution | Year |
+| ----- | ----- | ----- |
+| PhD student | Peking University | 2024 – Present |
+| B.S. | Peking University | 2020 – 2024 |

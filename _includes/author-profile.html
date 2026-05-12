@@ -159,6 +159,14 @@
       {% if author.weibo %}
         <li><a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo icon-pad-right" aria-hidden="true"></i>Weibo</a></li>
       {% endif %}
+      {% if author.douban %}
+        <li>
+          <a href="https://www.douban.com/people/{{ author.douban }}">
+            <i class="fas fa-book" aria-hidden="true"></i>
+            <span class="label">Douban</span>
+          </a>
+        </li>
+      {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w icon-pad-right" aria-hidden="true"></i>Wikipedia</a></li>
       {% endif %}                
