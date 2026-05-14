@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Rui Xu （许睿）"
+title                    : "Rui Xu 许睿"
 title_separator          : "-"
 name                     : &name "Rui Xu"
 description              : &description "Rui's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -28,7 +28,7 @@ author:
   pronouns         : "he/him" # example: "she/her"  
   bio              : "A PhD student in Atmospheric Physics and Atmospheric Environment"
   location         : "Beijing, China"
-  employer         : "Peking University"
+  employer         : "Peking University 北京大学"
   uri              : # URL
   email            : "xu_rui@stu.pku.edu.cn" 
 
