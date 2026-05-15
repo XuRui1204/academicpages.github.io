@@ -36,7 +36,7 @@ I bought my camera in March 2025.
   </div>
 
   <div class="gallery-item">
-    <img src="/images/gallery/campus2025.JPG" alt="Boya Tower in Golden Autumn 金秋博雅塔">
+    <img src="/images/gallery/campus2025.jpg" alt="Boya Tower in Golden Autumn 金秋博雅塔">
     <p class="gallery-title">Boya Tower in Golden Autumn 金秋博雅塔</p>
     <p class="caption">Beijing, China, 2025.11.2</p>
   </div>
